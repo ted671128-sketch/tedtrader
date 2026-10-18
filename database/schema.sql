@@ -1,0 +1,1 @@
+CREATE TABLE watchlist(id INTEGER PRIMARY KEY, stock_id TEXT);
